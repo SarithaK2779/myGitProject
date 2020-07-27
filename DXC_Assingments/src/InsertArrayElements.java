@@ -20,7 +20,7 @@ class Array3{
 public class InsertArrayElements extends Array3{
 
 	public static void main(String[] args) {
-		int n = 10; 
+		int n = 5; 
         
   
        
